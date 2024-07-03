@@ -5,9 +5,10 @@ Overview
 
 This repository contains a comprehensive analysis of the Khan Academy program implementation across 15 districts, covering 155 schools, and reaching 23,583 students in grades 6-8. The analysis identifies key trends, insights, and recommendations to strengthen the program as it enters its second year in April 2024.
 
+For a solid understanding of the analysis, go through the notebook indian_schools_analysis_(M&E).ipynb. It includes detailed markdowns, explanations, and rationales for the research.
 Contents
 
-	1.	notebooks/school_analysis.ipynb: Jupyter Notebook containing the detailed analysis, visualizations, and insights.
+	1.	notebooks/indian_schools_analysis_(M&E).ipynb: Jupyter Notebook containing the detailed analysis, visualizations, and insights.
 	2.	xlsx/csv files/:  datasets used for the analysis.
 	3.	README.md: This explanatory document.
 	5.	PDF file/: the comprehensive report in PDF and Word formats.
